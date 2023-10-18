@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="125f91e1-833b-45c7-b6db-b40128dedbe2" name="Changes" comment="" />
+    <list default="true" id="ab039f63-463f-4ff3-a0db-55484e736466" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +12,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -21,7 +22,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Wl9N8A3P9w1m4CziiTvzOS7IcB" />
+  <component name="ProjectId" id="2WwpOc3tgxWh90AAxTGa2ztGUH2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -31,10 +32,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/akfalah/Documents/Semester3/OOP/Praktik/06_AhmadKhoirulFalah_Inheritance/Jobsheet6/img",
+    "last_opened_file_path": "/Users/akfalah/Documents/Semester3/OOP/Praktik/05_AhmadKhoirulFalah_Inheritance/jobsheet5/img",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
@@ -42,18 +42,15 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/img" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/img" />
-    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="125f91e1-833b-45c7-b6db-b40128dedbe2" name="Changes" comment="" />
-      <created>1697296257462</created>
+      <changelist id="ab039f63-463f-4ff3-a0db-55484e736466" name="Changes" comment="" />
+      <created>1697653465614</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1697296257462</updated>
+      <updated>1697653465614</updated>
     </task>
     <servers />
   </component>
