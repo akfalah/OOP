@@ -73,6 +73,8 @@ Kode program: <br>
 
 ![](img/TugasClassWindows.png)
 
+![](img/TugasClassMain.png)
+
 Hasil run program: <br>
 
 ![](img/TugasHasilRun.png)
