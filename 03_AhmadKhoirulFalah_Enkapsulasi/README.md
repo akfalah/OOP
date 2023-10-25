@@ -1,1 +1,0 @@
-# 03_AhmadKhoirulFalah_Enkapsulasi
